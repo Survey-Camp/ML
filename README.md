@@ -18,4 +18,3 @@ SurveyCamp is an innovative mobile application designed to revolutionize the dat
     Function 4
         Model 1 : Adaptive UI Personalization
 
-# Mobile App
